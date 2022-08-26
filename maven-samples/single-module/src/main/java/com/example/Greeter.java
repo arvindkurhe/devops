@@ -16,4 +16,7 @@ public class Greeter {
   public String greet(String someone) {
     return String.format("Hello, %s!", someone);
   }
+  
+  public staic void main (String  args[]){
+    System.out.println("Hello from first appilcatoin deploymet");
 }

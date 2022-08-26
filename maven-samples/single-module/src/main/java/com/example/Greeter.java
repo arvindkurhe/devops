@@ -19,6 +19,7 @@ public class Greeter {
   
   public staic void main (String  args[]){
     System.out.println("Hello from first appilcatoin deploymet");
+    return true;
   }
     
 }
